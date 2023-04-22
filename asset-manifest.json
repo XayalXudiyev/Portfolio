@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.263ea340.css",
-    "main.js": "/Portfolio/static/js/main.d2834e1f.js",
+    "main.css": "/Portfolio/static/css/main.6b50d014.css",
+    "main.js": "/Portfolio/static/js/main.fd654635.js",
     "static/media/algoritmika.png": "/Portfolio/static/media/algoritmika.d98b696bad8d49f3a320.png",
     "static/media/portfolio.png": "/Portfolio/static/media/portfolio.cd542a790c8f17b74aa7.png",
     "static/media/ReduxToolkit.png": "/Portfolio/static/media/ReduxToolkit.6e66cd4ff6a497e88bde.png",
@@ -18,11 +18,11 @@
     "static/media/NextJS.png": "/Portfolio/static/media/NextJS.09efe21d7f95c2b7f5b0.png",
     "static/media/emojiRating.png": "/Portfolio/static/media/emojiRating.1386e65306660ed67853.png",
     "index.html": "/Portfolio/index.html",
-    "main.263ea340.css.map": "/Portfolio/static/css/main.263ea340.css.map",
-    "main.d2834e1f.js.map": "/Portfolio/static/js/main.d2834e1f.js.map"
+    "main.6b50d014.css.map": "/Portfolio/static/css/main.6b50d014.css.map",
+    "main.fd654635.js.map": "/Portfolio/static/js/main.fd654635.js.map"
   },
   "entrypoints": [
-    "static/css/main.263ea340.css",
-    "static/js/main.d2834e1f.js"
+    "static/css/main.6b50d014.css",
+    "static/js/main.fd654635.js"
   ]
 }
