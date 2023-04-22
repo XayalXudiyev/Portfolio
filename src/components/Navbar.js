@@ -32,7 +32,7 @@ const Navbar = () => {
   ];
 
   return (
-    <div className="div flex   justify-between items-center fixed w-full h-20 text-white bg-black px-4">
+    <div className="div flex   justify-between items-center fixed top-0  w-full h-20 text-white bg-black px-4">
       <div>
         <h1 className="font-signature  font-bold text-4xl">Khayal</h1>
       </div>

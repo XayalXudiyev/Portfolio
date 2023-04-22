@@ -1,7 +1,6 @@
 /** @format */
 
 import React from "react";
-import Logo from "../assets/man.jpg";
 import Alqoritmika from "../assets/Portfolioİmg/algoritmika.png";
 import ToDo from "../assets/Portfolioİmg/todo.png";
 import Converter from "../assets/Portfolioİmg/converter.png";
@@ -37,8 +36,8 @@ const Portfolio = () => {
     {
       id: 5,
       src: PortfolioImg,
-      codeUrl: "https://github.com/Xudiyef21/My-Portfolio.git",
-      demoUrl: "https://xudiyef21.github.io/My-Portfolio/",
+      codeUrl: "https://github.com/Xudiyef21/Portfolio",
+      demoUrl: "https://xudiyef21.github.io/Portfolio/",
     },
   ];
 
