@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.009f84d5.css",
+    "main.js": "/Portfolio/static/js/main.4b00b2f5.js",
+    "static/media/algoritmika.png": "/Portfolio/static/media/algoritmika.d98b696bad8d49f3a320.png",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.cd542a790c8f17b74aa7.png",
+    "static/media/ReduxToolkit.png": "/Portfolio/static/media/ReduxToolkit.6e66cd4ff6a497e88bde.png",
+    "static/media/man.jpg": "/Portfolio/static/media/man.add96c3ad50c25506773.jpg",
+    "static/media/React.png": "/Portfolio/static/media/React.8a6fc0a24a800d1e0f4a.png",
+    "static/media/HTML5.png": "/Portfolio/static/media/HTML5.5d9ec7118c38e45d785f.png",
+    "static/media/Bootstrap.png": "/Portfolio/static/media/Bootstrap.430491e6a02f91bf55d6.png",
+    "static/media/JavaScript.png": "/Portfolio/static/media/JavaScript.96a13af0147433eded9b.png",
+    "static/media/converter.png": "/Portfolio/static/media/converter.2d0a823ef9e24c628382.png",
+    "static/media/TypeScript.png": "/Portfolio/static/media/TypeScript.52ea0bc40ba11d507e7d.png",
+    "static/media/Tailwind.png": "/Portfolio/static/media/Tailwind.087f91401d142f1a4903.png",
+    "static/media/todo.png": "/Portfolio/static/media/todo.1ab8c353727893e1d9c5.png",
+    "static/media/CSS3.png": "/Portfolio/static/media/CSS3.2a7daffa85bb2869d26d.png",
+    "static/media/NextJS.png": "/Portfolio/static/media/NextJS.09efe21d7f95c2b7f5b0.png",
+    "static/media/emojiRating.png": "/Portfolio/static/media/emojiRating.1386e65306660ed67853.png",
+    "index.html": "/Portfolio/index.html",
+    "main.009f84d5.css.map": "/Portfolio/static/css/main.009f84d5.css.map",
+    "main.4b00b2f5.js.map": "/Portfolio/static/js/main.4b00b2f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.009f84d5.css",
+    "static/js/main.4b00b2f5.js"
+  ]
+}
