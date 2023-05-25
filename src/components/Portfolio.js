@@ -12,32 +12,32 @@ const Portfolio = () => {
     {
       id: 1,
       src: Alqoritmika,
-      codeUrl: "https://github.com/Xudiyef21/1.Alqoritmika.git",
-      demoUrl: "https://xudiyef21.github.io/1.Alqoritmika/",
+      codeUrl: "https://github.com/xayalXudiyev/1.Alqoritmika.git",
+      demoUrl: "https://xayalXudiyev.github.io/1.Alqoritmika/",
     },
     {
       id: 2,
       src: ToDo,
-      codeUrl: "https://github.com/Xudiyef21/2.TO-DO-list.git",
-      demoUrl: "https://xudiyef21.github.io/2.TO-DO-list/",
+      codeUrl: "https://github.com/xayalXudiyev/2.TO-DO-list.git",
+      demoUrl: "https://xayalXudiyev.github.io/2.TO-DO-list/",
     },
     {
       id: 3,
       src: Converter,
-      codeUrl: "https://github.com/Xudiyef21/3.CONVERTER.git",
-      demoUrl: "https://xudiyef21.github.io/3.CONVERTER/",
+      codeUrl: "https://github.com/xayalXudiyev/3.CONVERTER.git",
+      demoUrl: "https://xayalXudiyev.github.io/3.CONVERTER/",
     },
     {
       id: 4,
       src: EmojiRating,
-      codeUrl: "https://github.com/Xudiyef21/4.Emoji_rating.git",
-      demoUrl: "https://xudiyef21.github.io/4.Emoji_rating/",
+      codeUrl: "https://github.com/xayalXudiyev/4.Emoji_rating.git",
+      demoUrl: "https://xayalXudiyev.github.io/4.Emoji_rating/",
     },
     {
       id: 5,
       src: PortfolioImg,
-      codeUrl: "https://github.com/Xudiyef21/Portfolio",
-      demoUrl: "https://xudiyef21.github.io/Portfolio/",
+      codeUrl: "https://github.com/xayalXudiyev/Portfolio",
+      demoUrl: "https://xayalXudiyev.github.io/Portfolio/",
     },
   ];
 

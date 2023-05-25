@@ -24,7 +24,7 @@ const SocialLinks = () => {
           Github <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/xudiyef21",
+      href: "https://github.com/xayalXudiyev",
       style: "rounded-tr-md",
     },
     {
@@ -43,7 +43,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/XeyalXudiyevCV.pdf",
+      href: "/XudiyevXəyal CV (1).pdf",
       style: "rounded-br-md",
       download: true,
     },
