@@ -318,7 +318,7 @@ canvas {
 .main-section .hero-section .about-section {
   width: 90%;
   max-width: 1200px;
-  height: 700px;
+  height: 90vh;
   background: var(--lightDark);
   border-radius: 10px;
   position: fixed;
@@ -414,8 +414,6 @@ canvas {
 }
 
 .main-section .hero-section .about-section .about-me .about-me-text .mern {
-  margin-bottom: 2.2em;
-  margin-top: 2em;
   color: #1788ae;
 }
 
@@ -423,7 +421,6 @@ canvas {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin-top: 1.5em;
   position: relative;
 }
 
@@ -496,7 +493,7 @@ canvas {
   }
 
   .main-section .hero-section .about-section .about-me .about-me-text .about-me-detail {
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     text-align: justify;
   }
@@ -1671,7 +1668,7 @@ footer .black-logo {
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
-  margin-left: 1150px;
+  margin-left: 80%;
   position: relative;
   z-index: 4;
 }
@@ -1698,7 +1695,7 @@ footer .black-logo span {
   transform: translate(0%, 15%);
   width: -webkit-max-content;
   width: -moz-max-content;
-  padding: 13px 20px;
+  padding: 10px 17px;
   font-size: 20px;
 }
 
